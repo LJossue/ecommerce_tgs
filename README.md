@@ -1,6 +1,9 @@
 # Proyecto de E-Commerce
 
 Este repositorio contiene el código fuente de un proyecto de E-Commerce desarrollado como parte de un ejercicio. El proyecto está dividido en un backend desarrollado en Spring Boot y un frontend en desarrollo utilizando Vue.js y JavaScript.
+
+## Video del funcionamiento
+
 <p align="center">
   <a href="https://youtu.be/r4aeBI5wYjE">
     <img src="https://img.youtube.com/vi/r4aeBI5wYjE/0.jpg" alt="Video Ecommerce">
